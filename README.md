@@ -1,5 +1,5 @@
 # Image-Caption-Attention
-Upload your image to get a caption
+
 Please note that the jupyter notebook (ipynb) file will not display correctly in the github preview, please download in order to view it
 
 
