@@ -166,7 +166,7 @@ def predict():
     resp.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
     resp.headers["Pragma"] = "no-cache"
     resp.headers["Expires"] = "0"
-    checkpoint_path = "submit_checkpoint/ckpt-1"
+    checkpoint_path = "submit_checkpoint/ckpt-3"
     train_captions = load(open('captions.pkl', 'rb'))
 
     
